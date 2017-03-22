@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Stuttgart hbf",
+        "Address": "Arnulf-Klett-Platz 2, 70173 Stuttgart",
+        "Found Address": "Arnulf-Klett-Platz 2, 70173 Stuttgart",
+        "Match Quality": "Exact",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1813066,
+          48.7844706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Stuttgart DLR",
+        "Address": "Pfaffenwaldring 38, 70569 Stuttgart",
+        "Found Address": "Pfaffenwaldring 38, 70569 Stuttgart",
+        "Match Quality": "Exact",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1013067,
+          48.7484741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Denn's Biomarkt",
+        "Address": "Robert-Koch-Stra�e 2, 70563 Stuttgart",
+        "Found Address": "Robert-Koch-Stra�e 2, 70563 Stuttgart",
+        "Match Quality": "Exact",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1094032,
+          48.7293674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Daimler Museum ",
+        "Address": "Wasen, 70372 Stuttgart",
+        "Found Address": "Wasen, 70372 Stuttgart",
+        "Match Quality": "Exact",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2180273,
+          48.7965858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Injeera Restaurant",
+        "Address": "Wagnerstra�e 30, 70182 Stuttgart",
+        "Found Address": "Wagnerstra�e 30, 70182 Stuttgart",
+        "Match Quality": "Exact",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1822854,
+          48.7736945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "City Rock",
+        "Address": "Fritz-Elsas-Stra�e 44, 70174 Stuttgart",
+        "Found Address": "Fritz-Elsas-Stra�e 44, 70174 Stuttgart",
+        "Match Quality": "Exact",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1693562,
+          48.7767221
+        ]
+      }
+    }
+  ]
+}
